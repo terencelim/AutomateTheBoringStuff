@@ -5,5 +5,6 @@ https://automatetheboringstuff.com/
 * Automate the Boring Stuff with Python: Practical Programming for Total Beginners 1st Edition 
 * Buy Book - http://nostarch.com/automatestuff/
 
-#### Download Link 
+#### Download Links
 * http://www.nostarch.com/download/Automate_the_Boring_Stuff_onlinematerials.zip
+* https://www.nostarch.com/automatestuffresources
